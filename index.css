@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background: #fff;
+    /* background-image: ; */
+    /* min-height: ; */
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 1.5rem;
+}
